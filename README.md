@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Utkarsh-123github/Utkarsh-123github/master/name.svg" alt="Utkarsh Tiwari" />
 </h1>
 
-
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Utkarsh Tiwari🚀
 <p>Far from the rest but I'm far from my best. 
 <br/>
